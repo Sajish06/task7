@@ -22,4 +22,3 @@ Train and compare Support Vector Machines (linear and RBF) for binary classifica
 1. Open `notebook.ipynb` in Google Colab.
 2. Upload `breast-cancer.csv` when prompted or mount Google Drive.
 3. Run cells from top to bottom.
-4. After finishing, push notebook and artifacts to a new GitHub repo and submit link.
