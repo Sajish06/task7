@@ -6,7 +6,6 @@ Train and compare Support Vector Machines (linear and RBF) for binary classifica
 ## Files
 - `notebook.ipynb` — full Colab notebook (scripts and plots).
 - `breast-cancer.csv` — dataset (if allowed to include).
-- `final_model.pkl`, `scaler.pkl`, `pca_2d.pkl` — saved artifacts.
 - `README.md` — this file.
 
 ## Steps performed
@@ -24,7 +23,3 @@ Train and compare Support Vector Machines (linear and RBF) for binary classifica
 2. Upload `breast-cancer.csv` when prompted or mount Google Drive.
 3. Run cells from top to bottom.
 4. After finishing, push notebook and artifacts to a new GitHub repo and submit link.
-
-## Notes
-- Used `pickle` to save models.
-- Avoided joblib as requested.
